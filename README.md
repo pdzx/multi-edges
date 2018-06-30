@@ -14,3 +14,5 @@ copy-past the edges file in the directory where you want to run your python prog
 you can now use the draw_networkx_multi_edges and play with the rad argument to draw your graph with multiple edges as seen in the example 1
 
 example 2 is just another example of more complicated graph draw with this function
+
+Caveat: work only if the parameter arrows is set to true in draw_networkx_multi_edges (default settings)
